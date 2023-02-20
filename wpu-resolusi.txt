@@ -3,4 +3,4 @@ WPU resolusi
 - membuat platform pengelolaan video
 - Membuat forum diskusi
 - Membuat proposal disertasi
-- belajar bahasa inggris
+- Bootcamp S3
